@@ -1,0 +1,11 @@
+relativeURLs = true
+title = "Miguel Fajardo-Steinhäuser"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "PhD Candidate, London School of Economics"
+    logo = "pic.jpg" 
+    
